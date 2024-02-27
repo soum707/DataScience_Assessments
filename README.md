@@ -8,4 +8,4 @@ This repository will house a collection of data science assessments, along with 
 4- feature engineeing
 5- creata the model
 6- validate the model
-8- predict/use the mode
+7- predict/use the model
