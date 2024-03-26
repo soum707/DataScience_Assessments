@@ -9,4 +9,6 @@ This repository will house a collection of data science assessments, along with 
 5- feature engineeing <br>
 6- creata the model <br>
 6- validate the model <br>
-7- predict/use the model <br>
+7- gather feedback <br>
+8- deploy the model <br>
+9- update the model <br>
